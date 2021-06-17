@@ -1,0 +1,14 @@
+/* you can add to or change this. */
+
+html {
+  color: rgb(138, 38, 163);
+}
+
+#game div {
+  border: 1px solid rgb(122, 28, 146);
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+  display: inline-block;
+  background: lavender;
+}
